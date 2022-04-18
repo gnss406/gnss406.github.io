@@ -1,5 +1,5 @@
 ---
-title: 课程
+title: 
 type: course
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CDUT导航定位团队
+title: 
 type: home
 permalink: index.html
 ---

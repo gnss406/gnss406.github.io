@@ -1,5 +1,4 @@
 ---
-title: 科学成果
 type: science
 ---
 

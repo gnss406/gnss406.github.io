@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CDUT导航定位团队
+title: 406导航工作室
 subtitle: ''
 description: 'CDUT406'
 keywords:
@@ -273,8 +273,8 @@ theme_config:
     # Key is the link label showing to end users.
     # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
     social:
-      #GitHub: https://github.com/yourname || fab fa-github
-      #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+      Gitee: https://gitee.com/cdutgnss || fab fa-github
+      E-Mail: mailto:linxu15@cdut.edu.cn || fa fa-envelope
       #Weibo: https://weibo.com/yourname || fab fa-weibo
       #Google: https://plus.google.com/yourname || fab fa-google
       #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -338,7 +338,7 @@ theme_config:
       copyright: false
 
       # Powered by Hexo & NexT
-      powered: true
+      powered: false
 
       # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
       beian:

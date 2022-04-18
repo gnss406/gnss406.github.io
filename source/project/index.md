@@ -1,8 +1,7 @@
 ---
-title: 科研项目
 type: project
 ---
-## 科研项目
+<!-- ## 科研项目 -->
 
 
 * 复杂山区环境下实时高精度GNSS地质灾害监测，国家重点实验室自主课题（项目号：SKLGP2021Z022），主持，2022-2023年，10万 [comment]: <> (引用：State Key Laboratory of Geohazard Prevention and Geoenvironment Protection Independent Research Project(SKLGP2021Z022) )

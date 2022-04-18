@@ -1,5 +1,5 @@
 ---
-title: 团队介绍
+title: 
 type: member
 categories: member
 ---
