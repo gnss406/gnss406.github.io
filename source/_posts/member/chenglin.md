@@ -2,7 +2,6 @@
 title: 程林
 categories: member
 type: member
-# permalink: chenglin
 description: 
 top: 0
 ---
