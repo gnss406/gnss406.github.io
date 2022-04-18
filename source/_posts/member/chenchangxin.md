@@ -2,6 +2,7 @@
 title: 陈长鑫
 categories: member
 type: member
+# permalink: chengchangxin
 description: 
 top: 0
 ---
