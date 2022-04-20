@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://cdutgnss.gitee.com
 # permalink: :year/:month/:day/:title/
 permalink: :type/:title/
 permalink_defaults:
@@ -151,7 +151,7 @@ theme_config:
     # Schemes
     # scheme: Muse
     # scheme: Mist
-    #scheme: Pisces
+    # scheme: Pisces
     scheme: Gemini
 
     # Dark Mode
@@ -259,11 +259,12 @@ theme_config:
     # Sidebar Avatar
     avatar:
       # Replace the default image and set the url here.
-      url: #/images/avatar.gif
+      # url: /images/avatar.gif
+      url: /images/apple-touch-icon-next.png
       # If true, the avatar will be displayed in circle.
-      rounded: false
+      rounded: true
       # If true, the avatar will be rotated with the cursor.
-      rotated: false
+      rotated: true
 
     # Posts / Categories / Tags in sidebar.
     site_state: true

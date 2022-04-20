@@ -35,3 +35,5 @@ type: science
 
 
 {% post_link thesis '硕士论文评审标准' %}
+
+{% post_link academic_information '学术信息' %}
