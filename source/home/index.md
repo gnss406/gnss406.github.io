@@ -6,7 +6,7 @@ permalink: index.html
 欢迎来到CDUT导航定位团队406工作室！！！
 
 
- to do list
+**to do list** 
 - [x] 梁雄论文送审
 - [ ] 国重gnss数据测试(长鑫，程林)。截止日期 4.21
 - [x] 本科课程任务审核。截止日期 4.22

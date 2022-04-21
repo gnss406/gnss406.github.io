@@ -8,7 +8,7 @@ type: member
 
 林旭（1986—），四川富顺人，中共党员，汉族，工学博士，副教授，硕士生导师，地球科学学院党委委员，测绘工程系副主任，四川省测绘地理信息学会会员。主要从事GNSS数据处理和人工智能方面的研究。2017年通过国家注册测绘师资格考试。
 
-## 教育与工作经历
+**教育与工作经历**
 * 2022.4～至今，成都理工大学地质灾害防治与地质环境保护国家重点实验室，固定研究人员
 * 2021.7～至今，成都理工大学，地球科学学院，测绘工程系，副系主任
 * 2020.1～至今，成都理工大学，地球科学学院，测绘工程系，副教授
@@ -16,13 +16,12 @@ type: member
 * 2009.9～2014.12，武汉大学，测绘学院，大地测量学与测量工程（硕博连读），工学博士，导师：罗志才
 * 2005.9～2009.7，西南交通大学，土木工程学院，地理信息系统，理学学士
 
-## 研究方向：
+**研究方向**
 * 人工智能算法与测量数据处理
 * 实时高精度导航定位与灾害监测
 * 高等测量平差与参数估计理论
 
-## 科研项目
-
+**科研项目**
 * 复杂山区环境下实时高精度GNSS地质灾害监测，国家重点实验室自主课题（项目号：SKLGP2021Z022），主持，2022-2023，10万 [comment]: <> (引用：State Key Laboratory of Geohazard Prevention and Geoenvironment Protection Independent Research Project(SKLGP2021Z022) )
 * 智能自适应抗差滤波技术及其在导航定位中的应用，四川省科技厅项目，主持，2020-2022年，10万 [comment]: <> (//：the Sichuan Provincial Science and Technology Department Project (grant number 2020YJ0115) )
 * *基于自协方差最小二乘的组合自适应抗差Kalman滤波方法研究，国家自然青年基金，主持，2019-2021年，25万
@@ -35,8 +34,7 @@ type: member
 * 深圳市坐标转换软件开发，深圳市规划和国土资源委员会横向开发项目，主研
 * 重力数据处理与分析软件系统开发，地壳运动监测工程研究中心横向开发项目，主研
 
-## 期刊论文
-
+**期刊论文**
 * Lin, X.; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717
 * Ye, Jiang; He, Haiqing; Zhang, Ling; Lin, Xu; Qiang, Yuxuan. An Accurate Calculation of the Atmospheric Refraction Error of Optical Remote Sensing Images Based on the Fine-Layered Light Vector Method[J]. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2022 ,15 :1514-1525.
 * Lin, Xu; Yang, Xinghai; Hu, Chihao; Li, Wei. Improved forward and backward adaptive smoothing algorithm[J]. GPS SOLUTIONS, 2022 ,26 (1). （1区SCI检索）
@@ -59,25 +57,23 @@ type: member
 * 李振海, 李琼,林旭. 重力地形改正的计算模型研究. 测绘工程, 2011, 20(2): 24-26.
 
 
-## 会议论文
-
+**会议论文**
 * Lin Cheng;Xu Lin;Changxin Chen;Qingqing Zhang;Hongyue Wang;Hao Wen. Adaptive Observation Noise Variance Algorithm Based on Innovation Repair[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :22.
 * Hongyue Wang;Xu Lin;Qingqing Zhang;Changxin Chen;Lin Cheng;Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[A]. 第十三届中国卫星导航年会论文集——S03卫星导航系统与增强[C]. , 2022 :14.
 * 陈长鑫;林旭;程林;王宏月;张晴晴;刘灿. 一种实时单频周跳探测修复方法[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :151-156.
 
-## 科研获奖
-
+**科研获奖**
 * 测绘科技进步一等奖，排名13，2014年
 * 2014全国博士生学术论坛（测绘科学与技术）优秀学生论文奖，2014年
 * 第二十八届中国地球物理年会优秀学生论文奖，2012年
 
 
-### 教改项目
+**教改项目**
 
 * 基于融合式教学的《误差理论与测量平差基础》课程教学改革，主持，2022-2023，成都理工大学2021-2023年高等教育人才培养质量和教学改革项目（JG2130127）
 * 适应“新工科”建设及教育评价综合改革的测绘工程专业创新人才培养体系构建，参与，2022-2023，四川省2021-2023年高等教育人才培养质量和教学改革项目（JG2021-648）
 
-## 教学获奖
+**教学获奖**
 * 四川省第四届大学生测绘技能大赛，优秀指导教师奖，2018
 * 成都理工大学青年教师讲课比赛，二等奖，2018年
 * 成都理工大学地科科学学院青年教师讲课比赛，一等奖，2018年
@@ -87,7 +83,7 @@ type: member
 * 中海达杯第八届全国高等学校测绘类青年教师讲课竞赛，二等奖，2015年
 * 四川省第二届大学生测绘技能大赛，优秀指导教师奖，2016
 
-### 指导大学生创新创业项目
+**指导大学生创新创业项目**
 * 顾及时空变化的GNSS与InSAR数据的深度融合，2019—2020年，省级
 * 基于组合自适应多速率Kalman滤波方法的位移和加速度数据融合，2018—2019年，国家级
 * 全局最优的卡尔曼滤波算法在北斗/INS组合导航定位中的应用，2017—2018，省级
