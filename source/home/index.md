@@ -16,6 +16,7 @@ permalink: index.html
 - [ ] 审核本科生开题报告。截止日期 4.25
 - [ ] 硕士论文评审意见返回。截止日期 4.25
 - [ ] RS论文修回。截止日期 4.26
+- [ ] 测绘地理信息学会专家库申报。截止日期5.10
 - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022
 - [ ] 研究生项目推进，待细化。
 
