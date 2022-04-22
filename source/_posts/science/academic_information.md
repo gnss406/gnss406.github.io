@@ -7,8 +7,5 @@ top: 0
 ---
 
 
-**论文投稿**
-Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th.
-
-**项目推进**
-
+**信息分享**
+* 卫星应用开源代码共享[共享](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Radio_Frequency_Systems/Open_Source_Software_Resources_for_Space_Downstream_Applications)
