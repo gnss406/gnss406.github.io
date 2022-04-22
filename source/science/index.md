@@ -3,7 +3,6 @@ type: science
 ---
 
 **期刊论文**
-
 * Lin, X.; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717
 * Ye, Jiang; He, Haiqing; Zhang, Ling; Lin, Xu; Qiang, Yuxuan. An Accurate Calculation of the Atmospheric Refraction Error of Optical Remote Sensing Images Based on the Fine-Layered Light Vector Method[J]. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2022 ,15 :1514-1525.
 * Lin, Xu; Yang, Xinghai; Hu, Chihao; Li, Wei. Improved forward and backward adaptive smoothing algorithm[J]. GPS SOLUTIONS, 2022 ,26 (1). （1区SCI检索）
@@ -27,8 +26,6 @@ type: science
 
 
 **会议论文**
-
-
 * Lin Cheng;Xu Lin;Changxin Chen;Qingqing Zhang;Hongyue Wang;Hao Wen. Adaptive Observation Noise Variance Algorithm Based on Innovation Repair[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :22.
 * Hongyue Wang;Xu Lin;Qingqing Zhang;Changxin Chen;Lin Cheng;Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[A]. 第十三届中国卫星导航年会论文集——S03卫星导航系统与增强[C]. , 2022 :14.
 * 陈长鑫;林旭;程林;王宏月;张晴晴;刘灿. 一种实时单频周跳探测修复方法[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :151-156.
