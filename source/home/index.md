@@ -13,7 +13,6 @@ permalink: index.html
 >   - [ ] 测绘地理信息学会专家库申报。截止日期5.10
 >   - [ ] 研究生项目推进，待细化。
 - [ ] **论文相关**  
->   - [ ] 李兆雄论文送审。截止日期 4.25
 >   - [ ] 长安大学硕士论文评审意见返回。截止日期 4.29
 >   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022
 - [ ] **日常工作**
@@ -25,6 +24,7 @@ permalink: index.html
 **done list** 
 - [ ] **近期重点**
 - [ ] **论文相关**  
+>   - [x] 李兆雄论文送审。截止日期 4.25
 >   - [x] 梁雄论文送审。截止日期 4.25
 >   - [x] RS论文修回。截止日期 4.25
 >   - [x] 信息工程大学硕士论文评审意见返回。截止日期 4.25

@@ -23,7 +23,7 @@ categories: member
 
 {% post_link wenhao '文浩' %}
 
-{% post_link wangzhen '王(w)震（z）' %}
+{% post_link wangzhen '王(wz)震' %}
 
 {% post_link liucan '刘灿' %}
 </br>
