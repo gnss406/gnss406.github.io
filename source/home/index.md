@@ -17,7 +17,8 @@ permalink: index.html
 >   - [ ] 长安大学硕士论文评审意见返回。截止日期 4.29
 >   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022
 - [ ] **日常工作**
->   - [ ] 审核本科生开题报告。截止日期 4.25
+>   - [ ] 审核本科生开题报告。截止日期 4.25。延期至4.27
+>   - [ ] 教学大纲的修订工作，实验教学大纲模板需更正。
 
 </br>
 
