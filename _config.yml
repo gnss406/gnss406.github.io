@@ -212,7 +212,7 @@ theme_config:
     # External url should start with http:// or https://
     menu:
       主页: / || fa fa-home
-      # about: /about/ || fa fa-user
+      工作推进: /work/ || fa fa-heartbeat
       科研项目: /project/ || fa fa-calendar
       科研成果: /science/ || fa fa-th
       本硕课程: /course/ || fa fa-archive
