@@ -1,5 +1,5 @@
 ---
-title: 
+title: 王震
 categories: member
 type: member
 description: 
@@ -12,7 +12,7 @@ top: 0
 </div>
 
 
-王 震（1999-），安徽蚌埠人，汉族，共青团员，硕士在读。2021年9月考入成都理工大学资源与环境专业，就读硕士；2021年6月毕业于安徽农业大学测绘工程专业，获学士学位。
+（1999-），安徽蚌埠人，汉族，共青团员，硕士在读。2021年9月考入成都理工大学资源与环境专业，就读硕士；2021年6月毕业于安徽农业大学测绘工程专业，获学士学位。
 
 
 **参与的科研项目**
@@ -25,4 +25,3 @@ top: 0
 **会议论文**
 * Hongyue Wang,Xu Lin,Qingqing Zhang,Changxin Chen,Lin Cheng,Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[C]//.第十三届中国卫星导航年会论文集——S03卫星导航系统与增强.2022:14DOI:10.26914/c.cnkihy.2022.000932.
 
-**获奖**
