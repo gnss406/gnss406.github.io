@@ -23,3 +23,5 @@ top: 0
 **会议论文**
 * Hongyue Wang,Xu Lin,Qingqing Zhang,Changxin Chen,Lin Cheng,Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[C]//.第十三届中国卫星导航年会论文集——S03卫星导航系统与增强.2022:14DOI:10.26914/c.cnkihy.2022.000932.
 
+**获奖**
+* 安徽农业大学“爱农杯”测绘技能大赛团体三等奖（2019年）
