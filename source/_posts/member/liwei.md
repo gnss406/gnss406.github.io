@@ -38,9 +38,7 @@ top: 0
 
 
 **会议论文**
-* Lin Cheng, Xu Lin, Changxin Chen, Qingqing Zhang, Hongyue Wang, Hao Wen. Adaptive Observation Noise Variance Algorithm Based on Innovation Repair[C]//.第十三届中国卫星导航年会论文集——S04星轨道与精密定位.2022:22.DOI:10.26914/c.cnkihy.2022.001182.
-* 陈长鑫,林旭,程林,王宏月,张晴晴,刘灿. 一种实时单频周跳探测修复方法[C]//.第十三届中国卫星导航年会论文集——S04星轨道与精密定位.2022:151-156.DOI:10.26914/c.cnkihy.2022.001208.
-* Hongyue Wang, Xu Lin, Qingqing Zhang, Changxin Chen, Lin Cheng, Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[C]//.第十三届中国卫星导航年会论文集——S03卫星导航系统与增强.2022:14.DOI:10.26914/c.cnkihy.2022.000932.
+
 
 **获奖**
 * 博士期间曾获：研究生学业奖学金三等奖（2021年）、研究生励志奖学金（2021年）；
