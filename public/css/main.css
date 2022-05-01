@@ -203,22 +203,22 @@ h6 {
   margin: 30px 0 15px;
 }
 h1 {
-  font-size: 0.575em;
+  font-size: 0.675em;
 }
 h2 {
-  font-size: 0.45em;
+  font-size: 0.55em;
 }
 h3 {
-  font-size: 0.325em;
+  font-size: 0.425em;
 }
 h4 {
-  font-size: 0.2em;
+  font-size: 0.3em;
 }
 h5 {
-  font-size: 0.075em;
+  font-size: 0.175em;
 }
 h6 {
-  font-size: -0.05em;
+  font-size: 0.05em;
 }
 p {
   margin: 0 0 20px;
@@ -1114,8 +1114,8 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1.375em;
+  font-family: Microsoft YaHei, Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: 1em;
   font-weight: normal;
   line-height: 1.5;
   margin: 0;
