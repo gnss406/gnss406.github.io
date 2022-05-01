@@ -29,4 +29,5 @@ categories: member
 </br>
 
 **已毕业研究生**
-{% post_link liwei '2021届 李威（成都理工大学 博士在读）' %}
+{% post_link liwei '李威(2021届)' %}
+
