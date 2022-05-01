@@ -38,6 +38,7 @@ type: member
 * 重力数据处理与分析软件系统开发，地壳运动监测工程研究中心横向开发项目，主研
 
 **期刊论文**
+* Lin, X.; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, x. https://doi.org/10.3390/xxxxx
 * Lin, X.; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717
 * Ye, Jiang; He, Haiqing; Zhang, Ling; Lin, Xu; Qiang, Yuxuan. An Accurate Calculation of the Atmospheric Refraction Error of Optical Remote Sensing Images Based on the Fine-Layered Light Vector Method[J]. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2022 ,15 :1514-1525.
 * Lin, Xu; Yang, Xinghai; Hu, Chihao; Li, Wei. Improved forward and backward adaptive smoothing algorithm[J]. GPS SOLUTIONS, 2022 ,26 (1). （1区SCI检索）
