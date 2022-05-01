@@ -570,10 +570,10 @@ theme_config:
         size: 1.0
 
       # Font settings for headlines (<h1> to <h6>).
-      headings:
+      headings: 
         external: true
         family: Microsoft YaHei
-        size: 0.8
+        size: 
 
       # Font settings for posts (.post-body).
       posts:
