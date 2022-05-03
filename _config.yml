@@ -561,7 +561,7 @@ theme_config:
         external: true
         # family: Lato
         familiy: Microsoft YaHei
-        size: 0.8
+        size: 0.85
 
       # Font settings for site title (.site-title).
       title:

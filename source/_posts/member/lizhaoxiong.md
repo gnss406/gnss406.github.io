@@ -21,6 +21,6 @@ top: 0
 * 基于自协方差最小二乘的组合自适应抗差Kalman滤波方法研究，国家自然青年基金，参与，2019-2021年，25万。
 
 **期刊论文**
-* Lin, X.; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, x. https://doi.org/10.3390/xxxxx （2区SCI检索）
+* Lin, X.; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181 （2区SCI检索）
 * Lin, X.; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717 （2区SCI检索）
 
