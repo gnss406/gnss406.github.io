@@ -15,6 +15,7 @@ permalink: index.html
 >   - [ ] 硕士论文评审意见返回。截止日期 5.7
 >   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022
 - [ ] **日常工作**
+>   - [ ] 本科审核性评估。负责6.1.1部分。5.6日上午开会。截止日期5.15。
 >   - [ ] 教学资料归档工作。
 
 </br>
