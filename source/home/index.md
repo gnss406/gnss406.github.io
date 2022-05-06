@@ -10,7 +10,8 @@ permalink: index.html
 **to do list** 
 - [ ] **近期重点**
 >   - [ ] 国重gnss数据测试(长鑫，程林)。截止日期 4.21（延期）
->   - [ ] 研究生项目推进，待细化。
+>   - [ ] 文浩：M版的RTCM实时流解析
+>   - [ ] 长鑫、程林：M版的RTCM解析数据与处理模块对接
 - [ ] **论文相关**  
 >   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022
 - [ ] **日常工作**
