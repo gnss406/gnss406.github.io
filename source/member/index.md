@@ -6,7 +6,7 @@ categories: member
 
 **指导老师**
 {% post_link linxu '林旭' %}   
-</br>
+
 
 **在读研究生**
 {% post_link liangxiong '梁雄' %}
@@ -30,7 +30,7 @@ categories: member
 {% post_link dunage '杜娜格' %}
 
 {% post_link caixiaolong '蔡小龙' %}
-</br>
+
 
 **已毕业研究生**
 {% post_link liwei '李威(2021届)' %}

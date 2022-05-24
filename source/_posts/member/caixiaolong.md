@@ -7,7 +7,7 @@ top: 0
 ---
 
 <div align=center>
-<img src="/images/caixioalong.png" width = 25%>
+<img src="/images/caixiaolong.png" width = 25%>
 </div>
 
 
