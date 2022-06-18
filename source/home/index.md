@@ -3,9 +3,19 @@ title:
 type: home
 permalink: index.html
 ---
-欢迎来到CDUT导航定位团队406工作室！！！
+欢迎来到CDUT406导航工作室！！！
 
 </br>
+
+**研究方向** 
+- [x] **GNSS+（依托GNSS数据处理平台）**
+>   - [x] GNSS平台、产品研发 --> GNSS解算平台、GNSS电离层、对流层研究
+>   - [ ] GNSS+ INS --> 地震监测、信号捕获
+>   - [ ] GNSS+ InSAR --> 地壳形变监测
+>   - [ ] GNSS+ LiDAR --> SLAM
+>   - [ ] GNSS+ GRACE --> 地球动力学
+
+
 
 **to do list** 
 - [ ] **近期重点**

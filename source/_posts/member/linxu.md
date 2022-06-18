@@ -38,6 +38,7 @@ type: member
 * 重力数据处理与分析软件系统开发，地壳运动监测工程研究中心横向开发项目，主研
 
 **期刊论文**
+* Cui, L.; Yin, M.; Huang, Z.; Yao, C.; Wang, X.; **Lin, X.** The Drought Events over the Amazon River Basin from 2003 to 2020 Detected by GRACE/GRACE-FO and Swarm Satellites. Remote Sens. 2022, 14, 2887. https://doi.org/10.3390/rs14122887. （2区SCI检索）
 * **Lin, X.**; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181. （2区SCI检索）
 * **Lin, X.**; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717. （2区SCI检索）
 * Ye, Jiang; He, Haiqing; Zhang, Ling; **Lin, Xu**; Qiang, Yuxuan. An Accurate Calculation of the Atmospheric Refraction Error of Optical Remote Sensing Images Based on the Fine-Layered Light Vector Method[J]. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2022 ,15 :1514-1525.（2区SCI检索）
@@ -73,7 +74,7 @@ type: member
 
 
 **教改项目**
-* 基于融合式教学的《现代测量数据处理理论》课程教学改革，主持，2022-2023，成都理工大学2022年研究生质量工程项目，（2022YJG029）
+* 基于融合式教学的《现代测量数据处理理论》课程教学改革，主持，2022-2023，成都理工大学2022年研究生质量工程项目（2022YJG029）
 * 基于融合式教学的《误差理论与测量平差基础》课程教学改革，主持，2022-2023，成都理工大学2021-2023年高等教育人才培养质量和教学改革项目（JG2130127）
 * 适应“新工科”建设及教育评价综合改革的测绘工程专业创新人才培养体系构建，参与，2022-2023，四川省2021-2023年高等教育人才培养质量和教学改革项目（JG2021-648）
 

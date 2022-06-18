@@ -9,10 +9,6 @@ categories: member
 
 
 **在读研究生**
-{% post_link liangxiong '梁雄' %}
-
-{% post_link lizhaoxiong '李兆雄' %}
-
 {% post_link chenglin '程林' %}    
 
 {% post_link chenchangxin '陈长鑫' %}
@@ -33,5 +29,9 @@ categories: member
 
 
 **已毕业研究生**
+{% post_link liangxiong '梁雄(2022届)' %}
+
+{% post_link lizhaoxiong '李兆雄(2022届)' %}
+
 {% post_link liwei '李威(2021届)' %}
 
