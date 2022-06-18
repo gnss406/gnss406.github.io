@@ -22,8 +22,8 @@ permalink: index.html
 >   - [ ] 国重gnss数据测试(长鑫，程林)。截止日期 4.21（延期）
 >   - [ ] 文浩：M版的RTCM实时流解析
 >   - [ ] 长鑫、程林：M版的RTCM解析数据与处理模块对接
->   - [ ] 王震：IRI2016模型+GNSS实测的电离层更新（EnKF）
->   - [ ] 王宏月：基于AI的事实电离层预报产品
+>   - [ ] 雨辰：IRI2016模型+GNSS实测的电离层更新（EnKF）
+>   - [ ] 王宏月：基于AI的实时电离层预报产品
 - [ ] **论文相关**  
 >   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022(程林)
 - [ ] **日常工作**
