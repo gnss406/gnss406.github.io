@@ -3,6 +3,7 @@ type: science
 ---
 
 **期刊论文**
+* Cui, L.; Yin, M.; Huang, Z.; Yao, C.; Wang, X.; **Lin, X.** The Drought Events over the Amazon River Basin from 2003 to 2020 Detected by GRACE/GRACE-FO and Swarm Satellites. Remote Sens. 2022, 14, 2887. https://doi.org/10.3390/rs14122887. （2区SCI检索）
 * **Lin, X.**; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181. （2区SCI检索）
 * **Lin, X.**; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717. （2区SCI检索）
 * Ye, Jiang; He, Haiqing; Zhang, Ling; **Lin, Xu**; Qiang, Yuxuan. An Accurate Calculation of the Atmospheric Refraction Error of Optical Remote Sensing Images Based on the Fine-Layered Light Vector Method[J]. IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EARTH OBSERVATIONS AND REMOTE SENSING, 2022 ,15 :1514-1525.（2区SCI检索）
