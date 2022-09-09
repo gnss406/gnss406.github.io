@@ -25,6 +25,7 @@ type: member
 * 高等测量平差与参数估计理论
 
 **科研项目**
+* 混合函数模型和随机模型误差的自适应滤波平滑方法研究，国家自然面上基金（42271461），主持，2023-2026，50万
 * 复杂山区环境下实时高精度GNSS地质灾害监测，国家重点实验室自主课题（项目号：SKLGP2021Z022），主持，2022-2023，10万 [comment]: <> (引用：State Key Laboratory of Geohazard Prevention and Geoenvironment Protection Independent Research Project(SKLGP2021Z022) )
 * 智能自适应抗差滤波技术及其在导航定位中的应用，四川省科技厅项目，主持，2020-2022年，10万 [comment]: <> (//：the Sichuan Provincial Science and Technology Department Project (grant number 2020YJ0115) )
 * 基于自协方差最小二乘的组合自适应抗差Kalman滤波方法研究，国家自然青年基金，主持，2019-2021年，25万
