@@ -3,12 +3,9 @@ title:
 type: home
 permalink: index.html
 ---
-学而不思则罔，思而不学则殆。
+欢迎来到406导航工作室！
 
 </br>
-
-**学术会议** 
-* [地球科学新进展](http://www.sklgp.cdut.edu.cn/info/1026/6022.htm)(每周2)ZOOM:998 0166 8464，密码：65401
 
 **研究方向** 
 - [x] **GNSS+（依托GNSS数据处理平台）**
@@ -17,6 +14,11 @@ permalink: index.html
 >   - [ ] GNSS+ InSAR --> 地壳形变监测（杜娜格）
 >   - [ ] GNSS+ LiDAR --> SLAM（蔡小龙）
 >   - [ ] GNSS+ GRACE --> 地球动力学（赵杰）
+
+
+**学术会议** 
+* [地球科学新进展](http://www.sklgp.cdut.edu.cn/info/1026/6022.htm)(每周2)ZOOM:998 0166 8464，密码：65401
+
 
 
 
