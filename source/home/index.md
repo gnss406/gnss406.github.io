@@ -3,9 +3,12 @@ title:
 type: home
 permalink: index.html
 ---
-欢迎来到CDUT406导航工作室！！！
+欢迎来到406导航工作室！！！
 
 </br>
+
+**会议信息**
+* 地球科学新进展（每周二上午9：00）[SKLGP](http://www.sklgp.cdut.edu.cn/info/1026/6022.htm)，ZOOM：998 0166 8464，密码：65401
 
 **研究方向** 
 - [x] **GNSS+（依托GNSS数据处理平台）**
@@ -16,7 +19,6 @@ permalink: index.html
 >   - [ ] GNSS+ GRACE --> 地球动力学
 
 
-
 **to do list** 
 - [ ] **近期重点**
 >   - [ ] 国重gnss数据测试(长鑫，程林)。截止日期 4.21（延期）
@@ -25,7 +27,7 @@ permalink: index.html
 >   - [ ] 雨辰：IRI2016模型+GNSS实测的电离层更新（EnKF）
 >   - [ ] 王宏月：基于AI的实时电离层预报产品
 - [ ] **论文相关**  
->   - [ ] 论文投稿：Modelling Geodetic Time Series and Applications for Earth Science and Environmental Monitoring专刊投稿。截止时间 july 15th，2022(程林)
+>   - [ ] 论文投稿：
 - [ ] **日常工作**
 
 

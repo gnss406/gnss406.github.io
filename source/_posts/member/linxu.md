@@ -39,6 +39,7 @@ type: member
 * 重力数据处理与分析软件系统开发，地壳运动监测工程研究中心横向开发项目，主研
 
 **期刊论文**
+* **Lin, X.**; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. （2区SCI检索）
 * Cui, L.; Yin, M.; Huang, Z.; Yao, C.; Wang, X.; **Lin, X.** The Drought Events over the Amazon River Basin from 2003 to 2020 Detected by GRACE/GRACE-FO and Swarm Satellites. Remote Sens. 2022, 14, 2887. https://doi.org/10.3390/rs14122887. （2区SCI检索）
 * **Lin, X.**; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181. （2区SCI检索）
 * **Lin, X.**; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717. （2区SCI检索）
