@@ -31,7 +31,8 @@ type: science
 * Lin Cheng;**Xu Lin**;Changxin Chen;Qingqing Zhang;Hongyue Wang;Hao Wen. Adaptive Observation Noise Variance Algorithm Based on Innovation Repair[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :22.
 * Hongyue Wang;**Xu Lin**;Qingqing Zhang;Changxin Chen;Lin Cheng;Zhen Wang. Global Ionospheric Total Electron Content Prediction Based on Spatiotemporal Network Model[A]. 第十三届中国卫星导航年会论文集——S03卫星导航系统与增强[C]. , 2022 :14.
 * 陈长鑫;**林旭**;程林;王宏月;张晴晴;刘灿. 一种实时单频周跳探测修复方法[A]. 第十三届中国卫星导航年会论文集——S04星轨道与精密定位[C]. , 2022 :151-156.
-
+<!-- 
 **信息分享**
 - {% post_link thesis '硕士论文评审标准' %}
 - {% post_link academic_information '学术信息' %}
+-->
