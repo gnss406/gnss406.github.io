@@ -8,6 +8,7 @@ permalink: index.html
 </br>
 
 **学术会议** 
+* [地球科学新进展](http://www.sklgp.cdut.edu.cn/info/1026/6022.htm)(每周2)ZOOM:998 0166 8464，密码：65401
 
 **研究方向** 
 - [x] **GNSS+（依托GNSS数据处理平台）**
