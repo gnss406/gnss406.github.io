@@ -27,6 +27,8 @@ top: 0
 **学术报告**
 
 **会议摘要**
+* Lin, X.; Cheng, L.; Chen, C.; Li, W.; Ye, J.; Liang, X.; Zhang, Q.; Wang, H. A real-time autocovariance least-squares algorithm. Digital Signal Processing. Accepted. (2区SCI检索)
+* Lin, X.; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. （2区SCI检索）
 * Changxin Chen、Xu Lin、Wei Li、Lin Cheng、Hongyue Wang、Qingqing Zhang. A Real-time Ionospheric Estimation Method Based on Undifferenced and Uncombined Precise Point Positioning. Scientific Assembly of the International Association of Geodesy (IAG), 2021.
 * 李威，林旭，陈长鑫，程林，张晴晴，王宏月，梁雄，李兆雄。一种新的基于马氏距离和噪声协方差估计的自适应Kalman滤波。第十二届中国卫星导航年会。2021年。
 
