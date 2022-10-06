@@ -40,7 +40,7 @@ type: member
 
 **期刊论文**
 * **Lin, X.**; Cheng, L.; Chen, C.; Li, W.; Ye, J.; Liang, X.; Zhang, Q.; Wang, H. A real-time autocovariance least-squares algorithm. Digital Signal Processing. Accepted. (2区SCI检索)
-* **Lin, X.**; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. （2区SCI检索）
+* **Lin, X.**; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. https://doi.org/10.1109/TIM.2022.3210970（2区SCI检索）
 * Cui, L.; Yin, M.; Huang, Z.; Yao, C.; Wang, X.; **Lin, X.** The Drought Events over the Amazon River Basin from 2003 to 2020 Detected by GRACE/GRACE-FO and Swarm Satellites. Remote Sens. 2022, 14, 2887. https://doi.org/10.3390/rs14122887. （2区SCI检索）
 * **Lin, X.**; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181. （2区SCI检索）
 * **Lin, X.**; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717. （2区SCI检索）
