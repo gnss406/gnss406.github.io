@@ -129,7 +129,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">15</span>
+          <span class="site-state-item-count">16</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -180,7 +180,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://gnss406.github.io/member/wenhao/">
+    <link itemprop="mainEntityOfPage" href="https://gnss406.github.io/science/figure/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/406logo.png">
@@ -198,7 +198,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/member/wenhao/" class="post-title-link" itemprop="url">未命名</a>
+          <a href="/science/figure/" class="post-title-link" itemprop="url">matlab导出SCI论文图片</a>
         </h2>
 
         <div class="post-meta-container">
@@ -208,8 +208,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2022-09-29 21:51:21" itemprop="dateCreated datePublished" datetime="2022-09-29T21:51:21+08:00">2022-09-29</time>
+      <time title="创建时间：2022-10-07 15:12:07 / 修改时间：15:30:38" itemprop="dateCreated datePublished" datetime="2022-10-07T15:12:07+08:00">2022-10-07</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -217,7 +218,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/member/" itemprop="url" rel="index"><span itemprop="name">member</span></a>
+          <a href="/categories/sicence/" itemprop="url" rel="index"><span itemprop="name">sicence</span></a>
         </span>
     </span>
 
@@ -231,30 +232,11 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <div align=center>
-<img src="/images/wenhao.png" width = 25%>
-</div>
+          <p>图片尺寸：单栏8cm，1.5栏14cm，双栏17cm<br>图片格式：tiff<br>字体大小：6-8pt<br>分辨率：彩色300dpi，黑白600dpi</p>
+<p>画图代码示例</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clc;</span><br><span class="line">clear;</span><br><span class="line">close all</span><br><span class="line">x=1:1000;</span><br><span class="line">plot(sin(2*pi*x/60));</span><br><span class="line"></span><br><span class="line">% 绘图参数设置</span><br><span class="line">font_Name = &#x27;Times New Roman&#x27;;  % 字体</span><br><span class="line">figure_width = 8;               % 图片宽度 单栏 8cm ，1.5栏14cm   双栏17cm</span><br><span class="line">figure_hight = 4.5;             % 图片高度，最高不超过20cm</span><br><span class="line">figure_FontSize = 7;            % 图片中字体大小</span><br><span class="line">line_Width = 1;                 % 线宽</span><br><span class="line">xLabel = &#x27;xlabel(m)&#x27;;           % xlabel</span><br><span class="line">yLabel = &#x27;ylabel(m)&#x27;;           % xlabel</span><br><span class="line">figure_Name = &#x27;testfigure&#x27;;     % 图片名</span><br><span class="line"></span><br><span class="line">%设置图片大小</span><br><span class="line">set(gcf,&#x27;unit&#x27;,&#x27;centimeters&#x27;,&#x27;position&#x27;,[50,50,figure_width,figure_hight]) </span><br><span class="line"></span><br><span class="line">% x,y标签</span><br><span class="line">xlabel(xLabel,&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize)</span><br><span class="line">ylabel(yLabel,&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize)</span><br><span class="line"></span><br><span class="line">% axis</span><br><span class="line">set(get(gca,&#x27;XLabel&#x27;),&#x27;FontSize&#x27;,figure_FontSize,&#x27;Vertical&#x27;,&#x27;top&#x27;); </span><br><span class="line">set(get(gca,&#x27;YLabel&#x27;),&#x27;FontSize&#x27;,figure_FontSize,&#x27;Vertical&#x27;,&#x27;middle&#x27;); </span><br><span class="line">set(findobj(&#x27;FontSize&#x27;,10),&#x27;FontSize&#x27;,figure_FontSize); </span><br><span class="line">set(findobj(get(gca,&#x27;Children&#x27;),&#x27;LineWidth&#x27;,0.5),&#x27;LineWidth&#x27;,line_Width); </span><br><span class="line"></span><br><span class="line">% 图例</span><br><span class="line">legend(&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize,&#x27;LineWidth&#x27;,line_Width);</span><br><span class="line">legend(&#x27;legend&#x27;);      %设置图例</span><br><span class="line"> </span><br><span class="line">% 保存</span><br><span class="line">print -dtiff -r300 testfigure</span><br></pre></td></tr></table></figure>
 
-
-<p>文浩（1999-），四川巴中人，汉族，共青团员，硕士在读。2021年9月考入成都理工大学资源与环境专业，就读硕士；2021年6月毕业于西南石油大学测绘工程专业，获学士学位。</p>
-<p><strong>研究方向</strong></p>
-<p><strong>参与的科研项目</strong></p>
-<ul>
-<li>复杂山区环境下实时高精度GNSS地质灾害监测，国家重点实验室自主课题（项目号：SKLGP2021Z022），参与，2022-2023年，10万。</li>
-<li>智能自适应抗差滤波技术及其在导航定位中的应用，四川省科技厅项目，参与，2020-2022年，10万。</li>
-</ul>
-<p><strong>期刊论文</strong></p>
-<p><strong>学术报告</strong></p>
-<p><strong>会议摘要</strong></p>
-<p><strong>会议论文</strong></p>
-<ul>
-<li>Lin Cheng,Xu Lin,Changxin Chen,Qingqing Zhang,Hongyue Wang,Hao Wen. Adaptive Observation Noise Variance Algorithm Based on Innovation Repair[C]&#x2F;&#x2F;.第十三届中国卫星导航年会论文集——S04星轨道与精密定位.2022:22.DOI:10.26914&#x2F;c.cnkihy.2022.001182.</li>
-</ul>
-<p><strong>获奖</strong></p>
-<ul>
-<li>优秀学生奖</li>
-<li>“中海达杯”第五届四川省大学生测绘技能大赛：二等导线组二等奖、测图组三等奖、团体三等奖。</li>
-</ul>
+<p><img src="/figure/testfigure.tif" alt="testfigure"></p>
 
       
     </div>
@@ -274,7 +256,7 @@
 
 
   <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/home/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/home/page/15/">15</a><a class="extend next" rel="next" href="/home/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <span class="page-number current">1</span><a class="page-number" href="/home/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/home/page/16/">16</a><a class="extend next" rel="next" href="/home/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 </div>
