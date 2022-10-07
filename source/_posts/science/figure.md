@@ -1,5 +1,5 @@
 ---
-title: matlab导出SCI论文图片
+title: MATLAB绘制SCI论文图片
 categories: sicence
 type: sicence
 description: 
@@ -10,7 +10,7 @@ top: 0
 字体大小：6-8pt
 分辨率：彩色300dpi，黑白600dpi
 
-画图代码示例
+画图代码示例(MATLAB)
 ```
 clc;
 clear;
@@ -45,7 +45,7 @@ set(findobj(get(gca,'Children'),'LineWidth',0.5),'LineWidth',line_Width);
 legend('FontName',font_Name,'FontSize',figure_FontSize,'LineWidth',line_Width);
 legend('legend');      %设置图例
  
-% 保存
+% 保存 tiff格式，分辨率300dpi
 print -dtiff -r300 testfigure
 ```
 
