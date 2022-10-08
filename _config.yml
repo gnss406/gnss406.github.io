@@ -213,8 +213,8 @@ theme_config:
     menu:
       主页: / || fa fa-home
       工作推进: /work/ || fa fa-heartbeat
-      科研项目: /project/ || fa fa-calendar
-      科研成果: /science/ || fa fa-th
+      科研成果: /project/ || fa fa-calendar
+      学术分享: /science/ || fa fa-th
       本硕课程: /course/ || fa fa-archive
       团队介绍: member/ || fa fa-tags
       联系我们: /about/ || fa fa-user

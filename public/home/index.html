@@ -84,7 +84,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-主页"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>主页</a></li><li class="menu-item menu-item-工作推进"><a href="/work/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>工作推进</a></li><li class="menu-item menu-item-科研项目"><a href="/project/" rel="section"><i class="fa fa-calendar fa-fw"></i>科研项目</a></li><li class="menu-item menu-item-科研成果"><a href="/science/" rel="section"><i class="fa fa-th fa-fw"></i>科研成果</a></li><li class="menu-item menu-item-本硕课程"><a href="/course/" rel="section"><i class="fa fa-archive fa-fw"></i>本硕课程</a></li><li class="menu-item menu-item-团队介绍"><a href="/member/" rel="section"><i class="fa fa-tags fa-fw"></i>团队介绍</a></li><li class="menu-item menu-item-联系我们"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>联系我们</a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-主页"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>主页</a></li><li class="menu-item menu-item-工作推进"><a href="/work/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>工作推进</a></li><li class="menu-item menu-item-科研成果"><a href="/project/" rel="section"><i class="fa fa-calendar fa-fw"></i>科研成果</a></li><li class="menu-item menu-item-学术分享"><a href="/science/" rel="section"><i class="fa fa-th fa-fw"></i>学术分享</a></li><li class="menu-item menu-item-本硕课程"><a href="/course/" rel="section"><i class="fa fa-archive fa-fw"></i>本硕课程</a></li><li class="menu-item menu-item-团队介绍"><a href="/member/" rel="section"><i class="fa fa-tags fa-fw"></i>团队介绍</a></li><li class="menu-item menu-item-联系我们"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>联系我们</a></li>
   </ul>
 </nav>
 
@@ -129,7 +129,7 @@
   <nav class="site-state">
       <div class="site-state-item site-state-posts">
         <a href="/archives/">
-          <span class="site-state-item-count">16</span>
+          <span class="site-state-item-count">17</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -180,7 +180,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="">
-    <link itemprop="mainEntityOfPage" href="https://gnss406.github.io/science/figure/">
+    <link itemprop="mainEntityOfPage" href="https://gnss406.github.io/science/thesis/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/406logo.png">
@@ -198,7 +198,7 @@
     </span>
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
-          <a href="/science/figure/" class="post-title-link" itemprop="url">MATLAB绘制SCI论文图片</a>
+          <a href="/science/thesis/" class="post-title-link" itemprop="url">硕士论文评审标准</a>
         </h2>
 
         <div class="post-meta-container">
@@ -208,9 +208,8 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
-      
 
-      <time title="创建时间：2022-10-07 15:12:07 / 修改时间：15:39:23" itemprop="dateCreated datePublished" datetime="2022-10-07T15:12:07+08:00">2022-10-07</time>
+      <time title="创建时间：2022-10-08 11:16:03" itemprop="dateCreated datePublished" datetime="2022-10-08T11:16:03+08:00">2022-10-08</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -232,11 +231,13 @@
     
     
     <div class="post-body" itemprop="articleBody">
-          <p>图片尺寸：单栏8cm，1.5栏14cm，双栏17cm<br>图片格式：tiff<br>字体大小：6-8pt<br>分辨率：彩色300dpi，黑白600dpi</p>
-<p>画图代码示例(MATLAB)</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">clc;</span><br><span class="line">clear;</span><br><span class="line">close all</span><br><span class="line">x=1:1000;</span><br><span class="line">plot(sin(2*pi*x/60));</span><br><span class="line"></span><br><span class="line">% 绘图参数设置</span><br><span class="line">font_Name = &#x27;Times New Roman&#x27;;  % 字体</span><br><span class="line">figure_width = 8;               % 图片宽度 单栏 8cm ，1.5栏14cm   双栏17cm</span><br><span class="line">figure_hight = 4.5;             % 图片高度，最高不超过20cm</span><br><span class="line">figure_FontSize = 7;            % 图片中字体大小</span><br><span class="line">line_Width = 1;                 % 线宽</span><br><span class="line">xLabel = &#x27;xlabel(m)&#x27;;           % xlabel</span><br><span class="line">yLabel = &#x27;ylabel(m)&#x27;;           % xlabel</span><br><span class="line">figure_Name = &#x27;testfigure&#x27;;     % 图片名</span><br><span class="line"></span><br><span class="line">%设置图片大小</span><br><span class="line">set(gcf,&#x27;unit&#x27;,&#x27;centimeters&#x27;,&#x27;position&#x27;,[50,50,figure_width,figure_hight]) </span><br><span class="line"></span><br><span class="line">% x,y标签</span><br><span class="line">xlabel(xLabel,&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize)</span><br><span class="line">ylabel(yLabel,&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize)</span><br><span class="line"></span><br><span class="line">% axis</span><br><span class="line">set(get(gca,&#x27;XLabel&#x27;),&#x27;FontSize&#x27;,figure_FontSize,&#x27;Vertical&#x27;,&#x27;top&#x27;); </span><br><span class="line">set(get(gca,&#x27;YLabel&#x27;),&#x27;FontSize&#x27;,figure_FontSize,&#x27;Vertical&#x27;,&#x27;middle&#x27;); </span><br><span class="line">set(findobj(&#x27;FontSize&#x27;,10),&#x27;FontSize&#x27;,figure_FontSize); </span><br><span class="line">set(findobj(get(gca,&#x27;Children&#x27;),&#x27;LineWidth&#x27;,0.5),&#x27;LineWidth&#x27;,line_Width); </span><br><span class="line"></span><br><span class="line">% 图例</span><br><span class="line">legend(&#x27;FontName&#x27;,font_Name,&#x27;FontSize&#x27;,figure_FontSize,&#x27;LineWidth&#x27;,line_Width);</span><br><span class="line">legend(&#x27;legend&#x27;);      %设置图例</span><br><span class="line"> </span><br><span class="line">% 保存 tiff格式，分辨率300dpi</span><br><span class="line">print -dtiff -r300 testfigure</span><br></pre></td></tr></table></figure>
-
-<p><img src="/figure/testfigure.tif" alt="testfigure"></p>
+          <h2 id="测绘科学与技术"><a href="#测绘科学与技术" class="headerlink" title="测绘科学与技术"></a><strong>测绘科学与技术</strong></h2><p><strong>选题与综述(30)</strong><br>27-30分：文献引用正确、分布合理，问题描述具体；作者对本学科及相关领域发展前沿有深入的了解；研究内容与科技发展、国民经济或国防建设相关性强，选题有前瞻性。<br>22.5-26.9分：文献引用正确、分布合理，问题描述比较具体；作者对本学科及相关领域发展前沿有较深入的了解；研究内容与科技发展、国民经济或国防建设相关，选题有一定前瞻性。<br>18-22.4分：文献引用正确、分布合理，问题描述笼统；作者对本学科及相关领域发展有一定了解；选题有意义。<br>17.9分以下：文献引用欠缺、分布失衡，问题描述不清楚；选题缺乏依据。</p>
+<p><strong>科研能力及论文水平(60)</strong><br> 54-60分：提出新见解、新方法；运用本学科领域相关理论方法解决科学和实际问题；很好地采用先进技术、手段、方法、设备，进行论文研究工作，科研实践能力强。<br>45-53.9分：提出新见解、新方法；运用本学科领域相关理论方法解决实际问题；较好地采用先进技术、手段、方法、设备，进行论文研究工作，科研实践能力较强。<br>36-44.9分：对相关问题有一定见解；能运用本学科领域相关理论方法解决一定实际问题；能采用一定的技术、手段、方法、设备，进行论文研究工作，科研实践能力一般。<br>35.9分以下：对相关问题没有新见解，运用本学科基础理论和专门知识的能力欠缺；论文研究难度不够。</p>
+<p><strong>写作能力(10)</strong><br>9-10分：条理清晰，层次分明，文笔流畅，图表规范，学风严谨。<br>7.5-8.9分：条理性好，层次分明，文笔较好，图表规范，学风严谨。<br>6-7.4分：写作能力尚可。<br>5.9分以下：写作能力差。</p>
+<h2 id="测绘工程"><a href="#测绘工程" class="headerlink" title="测绘工程"></a><strong>测绘工程</strong></h2><p><strong>论文选题与综述(20)</strong><br>论文选题的前沿性，研究的理论意义或实用价值；对相关领域研究现状的归纳总结情况。</p>
+<p><strong>论文创新性(30)</strong><br>探索了有价值的现象，提出了新命题新方法，或提出了新的见解。</p>
+<p><strong>理论基础及科研能力(30)</strong><br>体现了作者具有坚实的理论基础和系统的专门知识。具备从事科学研究工作的能力。</p>
+<p><strong>论文规范性(20)</strong><br>引文的规范性、论文结构逻辑性、文字表述准确性、流畅性。</p>
 
       
     </div>
@@ -256,7 +257,7 @@
 
 
   <nav class="pagination">
-    <span class="page-number current">1</span><a class="page-number" href="/home/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/home/page/16/">16</a><a class="extend next" rel="next" href="/home/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
+    <span class="page-number current">1</span><a class="page-number" href="/home/page/2/">2</a><span class="space">&hellip;</span><a class="page-number" href="/home/page/17/">17</a><a class="extend next" rel="next" href="/home/page/2/"><i class="fa fa-angle-right" aria-label="下一页"></i></a>
   </nav>
 
 </div>
