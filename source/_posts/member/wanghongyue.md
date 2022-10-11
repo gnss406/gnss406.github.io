@@ -8,7 +8,7 @@ top: 0
 ---
 
 <div align=center>
-<img src="/images/wanghongyue.png" width = 25%>
+<img src="/images/wanghongyue.jpg" width = 25%>
 </div>
 
 

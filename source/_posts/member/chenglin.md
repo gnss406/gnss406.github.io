@@ -7,7 +7,7 @@ top: 0
 ---
 
 <div align=center>
-<img src="/images/chenlin.png" width = 25%>
+<img src="/images/chenglin.jpg" width = 25%>
 </div>
 
 

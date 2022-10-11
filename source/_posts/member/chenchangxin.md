@@ -9,7 +9,7 @@ top: 0
 
 
 <div align=center>
-<img src="/images/chenchangxin.png" width = 25%>
+<img src="/images/chenchangxin.jpg" width = 25%>
 </div>
 
 
