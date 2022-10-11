@@ -13,19 +13,19 @@ categories: member
 **在读研究生**
 <table frame=void>
 <tr>
-    <td><center><img src="/images/chenglin.jpg" width = 70%>{% post_link chenglin '程林(19级)' %}</center></td>
-    <td><center><img src="/images/chenchangxin.jpg" width = 65%>{% post_link chenchangxin '陈长鑫(19级)' %}</center></td>
-    <td><center><img src="/images/wanghongyue.jpg" width = 65%>{% post_link wanghongyue '王宏月(19级)' %}</center></td>
-    <td><center><img src="/images/zhangqingqing.jpg" width = 65%>{% post_link zhangqingqing '张晴晴(19级)' %}</center></td>
+    <td><center><img src="/images/chenglin.jpg" width = 70%>{% post_link chenglin '程林(20级)' %}</center></td>
+    <td><center><img src="/images/chenchangxin.jpg" width = 65%>{% post_link chenchangxin '陈长鑫(20级)' %}</center></td>
+    <td><center><img src="/images/wanghongyue.jpg" width = 65%>{% post_link wanghongyue '王宏月(20级)' %}</center></td>
+    <td><center><img src="/images/zhangqingqing.jpg" width = 65%>{% post_link zhangqingqing '张晴晴(20级)' %}</center></td>
 <tr>
-    <td><center><img src="/images/wenhao.png" width = 65%>{% post_link wenhao '文浩(20级)' %}</center></td>
-    <td><center><img src="/images/wangzhen.png" width = 65%>{% post_link wangzhen '王震(20级)' %}</center></td>
-    <td><center><img src="/images/liucan.png" width = 65%>{% post_link liucan '刘灿(20级)' %}</center></td>
+    <td><center><img src="/images/wenhao.png" width = 65%>{% post_link wenhao '文浩(21级)' %}</center></td>
+    <td><center><img src="/images/wangzhen.png" width = 65%>{% post_link wangzhen '王震(21级)' %}</center></td>
+    <td><center><img src="/images/liucan.png" width = 65%>{% post_link liucan '刘灿(21级)' %}</center></td>
     <td> </td>
 <tr>
-    <td><center><img src="/images/dunage.png" width = 65%>{% post_link dunage '杜娜格(21级)' %}</center></td>
-    <td><center><img src="/images/caixiaolong.png" width = 65%>{% post_link caixiaolong '蔡小龙(21级)' %}</center></td>
-    <td><center><img src="/images/zhaojie.png" width = 65%>{% post_link zhaojie '赵杰(21级)' %}</center></td>
+    <td><center><img src="/images/dunage.png" width = 65%>{% post_link dunage '杜娜格(22级)' %}</center></td>
+    <td><center><img src="/images/caixiaolong.png" width = 65%>{% post_link caixiaolong '蔡小龙(22级)' %}</center></td>
+    <td><center><img src="/images/zhaojie.png" width = 65%>{% post_link zhaojie '赵杰(22级)' %}</center></td>
     <td> </td>
 </tr>
 </table>
