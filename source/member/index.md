@@ -26,6 +26,7 @@ categories: member
     <td><center><img src="/images/dunage.png" width = 65%>{% post_link dunage '杜娜格(22级)' %}</center></td>
     <td><center><img src="/images/caixiaolong.png" width = 65%>{% post_link caixiaolong '蔡小龙(22级)' %}</center></td>
     <td><center><img src="/images/zhaojie.png" width = 65%>{% post_link zhaojie '赵杰(22级)' %}</center></td>
+    <td><center><img src="/images/yuanzhengdao.png" width = 65%>{% post_link yuanzhengdao '袁政道(22级)' %}</center></td>
     <td> </td>
 </tr>
 </table>
