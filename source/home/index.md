@@ -25,6 +25,7 @@ permalink: index.html
 * [地球物理大地测量大型科学计算平台](https://www.zcyphygeodesy.com)
 * [Canada地球动力学软件和数据](https://www.nrcan.gc.ca/maps-tools-and-publications/geodetic-reference-systems/data/10923)
 * [Jeremy Maurer's github](https://github.com/jlmaurer?tab=repositories)
+* [多源智能导航实验室](http://www.i2nav.com/index)
 
 </br>
 
