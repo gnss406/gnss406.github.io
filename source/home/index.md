@@ -26,7 +26,7 @@ permalink: index.html
 * [多源智能导航实验室](http://www.i2nav.com/index)
 * [Canada地球动力学软件和数据](https://www.nrcan.gc.ca/maps-tools-and-publications/geodetic-reference-systems/data/10923)
 * [Jeremy Maurer's github](https://github.com/jlmaurer?tab=repositories)
-* [Pride PPP](http://pride.whu.edu.cn/index.shtml)
+* [Pride PPP主页](http://pride.whu.edu.cn/index.shtml)/[Github源码]（https://codeload.github.com/PrideLab/PRIDE-PPPAR/zip/refs/heads/master）
 * [Ntrip - Networked Transport of RTCM via Internet Protocol](https://igs.bkg.bund.de/ntrip/)
 * [IGS Real-Time Service (RTS)](https://www.igs.org/rts)
 
