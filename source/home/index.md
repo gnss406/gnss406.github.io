@@ -29,7 +29,7 @@ permalink: index.html
 * [IGS Real-Time Service (RTS)](https://www.igs.org/rts)
 * [Jeremy Maurer's github](https://github.com/jlmaurer?tab=repositories)
 * [Ntrip - Networked Transport of RTCM via Internet Protocol](https://igs.bkg.bund.de/ntrip/)
-* [Pride PPP主页](http://pride.whu.edu.cn/index.shtml)/[Github源码](https://codeload.github.com/PrideLab/PRIDE-PPPAR/zip/refs/heads/master)
+* [Pride PPP主页](http://pride.whu.edu.cn/index.shtml)/[Github源码](https://github.com/PrideLab/PRIDE-PPPAR)
 
 
 
