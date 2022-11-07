@@ -24,6 +24,7 @@ permalink: index.html
 * [地球物理大地测量大型科学计算平台](https://www.zcyphygeodesy.com)
 * [多源智能导航实验室](http://www.i2nav.com/index)
 * [卫星应用开源代码共享](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Radio_Frequency_Systems/Open_Source_Software_Resources_for_Space_Downstream_Applications)
+* [同济GNSS研究团队](https://gnss.tongji.edu.cn/index.htm)
 * [Awesome GNSS](https://github.com/barbeau/awesome-gnss)
 * [Canada地球动力学软件和数据](https://www.nrcan.gc.ca/maps-tools-and-publications/geodetic-reference-systems/data/10923)
 * [Diego Melgar](https://github.com/dmelgarm)
