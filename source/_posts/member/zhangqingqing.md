@@ -23,6 +23,7 @@ top: 0
 
 
 **期刊论文**
+* Chen, C.; **Lin, X.**; Li, W.; Cheng, L.; Wang H.; Zhang, Q.; Wang, Z. Adaptive colored noise multi-rate Kalman filter and its application in coseismic deformations. Geophys. J. Int. Accepted. (2区SCI检索)
 * Lin, X.; Cheng, L.; Chen, C.; Li, W.; Ye, J.; Liang, X.; Zhang, Q.; Wang, H. A real-time autocovariance least-squares algorithm. Digital Signal Processing. Accepted. (2区SCI检索)
 * Lin, X.; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. （2区SCI检索）
 * Lin, X.; Zhang, Q.; Wang, H.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A DEM Super-Resolution Reconstruction Network Combining Internal and External Learning. Remote Sens. 2022, 14, 2181. https://doi.org/10.3390/rs14092181 （2区SCI检索）

@@ -39,6 +39,7 @@ type: member
 * 重力数据处理与分析软件系统开发，地壳运动监测工程研究中心横向开发项目，主研
 
 **期刊论文**
+* Chen, C.; **Lin, X.**; Li, W.; Cheng, L.; Wang H.; Zhang, Q.; Wang, Z. Adaptive colored noise multi-rate Kalman filter and its application in coseismic deformations. Geophys. J. Int. Accepted. (2区SCI检索)
 * Yao, C.; Shum, C.K.; Luo, Z.; Li, Q.; **Lin, X.**; Xu, C.; Zhang, Y.; Chen, J.; Huang, Q.; Chen, Y. An optimized hydrological drought index integrating GNSS displacement and satellite gravimetry data. Journal of Hydrology. https://doi.org/10.1016/j.jhydrol.2022.128647. (1区SCI检索)
 * **Lin, X.**; Cheng, L.; Chen, C.; Li, W.; Ye, J.; Liang, X.; Zhang, Q.; Wang, H. A real-time autocovariance least-squares algorithm. Digital Signal Processing. http://dx.doi.org/10.1016/j.dsp.2022.103779. (2区SCI检索)
 * **Lin, X.**; Liang, X.; Chen, C.; Cheng, L.; Wang, H.; Zhang, Q. Adaptive Robust Least-Squares Smoothing Algorithm. IEEE Transactions on Instrumentation and Measurement. Accepted. https://doi.org/10.1109/TIM.2022.3210970. （2区SCI检索）

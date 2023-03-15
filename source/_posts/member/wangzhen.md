@@ -18,6 +18,7 @@ top: 0
 * 智能自适应抗差滤波技术及其在导航定位中的应用，四川省科技厅项目，参与，2020-2022年，10万。
 
 **期刊论文**
+* Chen, C.; **Lin, X.**; Li, W.; Cheng, L.; Wang H.; Zhang, Q.; Wang, Z. Adaptive colored noise multi-rate Kalman filter and its application in coseismic deformations. Geophys. J. Int. Accepted. (2区SCI检索)
 * Lin, X.; Wang, H.; Zhang, Q.; Yao, C.; Chen, C.; Cheng, L.; Li, Z. A Spatiotemporal Network Model for Global Ionospheric TEC Forecasting. Remote Sens. 2022, 14, 1717. https://doi.org/10.3390/rs14071717
 
 **会议论文**
